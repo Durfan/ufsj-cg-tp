@@ -15,8 +15,8 @@ MonoBehaviour:
   waterGeomType: 0
   depthMapCullingMask:
     serializedVersion: 2
-    m_Bits: 64
-  refType: 2
+    m_Bits: 80
+  refType: 0
   planarSettings:
     m_ResolutionMultiplier: 2
     m_ClipPlaneOffset: 0
@@ -24,6 +24,6 @@ MonoBehaviour:
       serializedVersion: 2
       m_Bits: 64
     m_Shadows: 0
-  cubemapRefType: {fileID: 0}
+  cubemapRefType: {fileID: 8900000, guid: b827ce7b2713563089357fbbdfa9cdcc, type: 3}
   isInfinite: 0
   originOffset: {x: 0, y: 0, z: 500, w: 500}
