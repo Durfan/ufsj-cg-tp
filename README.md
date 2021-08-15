@@ -6,7 +6,7 @@ Ambiente modelado contendo os seguintes elementos:
 * Montanhas e vales
 * Clima
 * Árvores e grama
-* Primitivas para construir casas/prédios
+* Primitivas
 * Iluminação
 * Texturas
 * Personagem em terceira pessoa
