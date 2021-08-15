@@ -11,6 +11,8 @@ Ambiente modelado contendo os seguintes elementos:
 * Texturas
 * Personagem em terceira pessoa
 
+![Captura](https://github.com/Durfan/ufsj-cg-tp/blob/main/Docs/captura.png)
+
 ## Downloads
 
 [Windows Build](https://drive.google.com/file/d/1htJ6mY57XKAS4FhNSEF4rRNTwD-RkPIR/view?usp=sharing)
